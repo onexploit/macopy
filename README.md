@@ -5,7 +5,7 @@
 درمیاره , این ابزار رو باید روی یک فلش اجرا کنید.
 هرجایی که ابزار باشه فایل zip-
 همون کپی میشه
-Hello Frend-
+# Hello Frend
 
 # install windows
 - --> pip install win32gui
